@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "userService": "https://github.com/uservin1/userService.git",
+    "mavenService": "https://github.com/uservin1/mavenService.git"
+  }
+}
